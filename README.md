@@ -207,7 +207,7 @@ pipeline {
 }
 ```
 
-Certainly, here are the instructions without step numbers:
+Certainly, below here are the instructions without step numbers:
 
 **Install Dependency-Check and Docker Tools in Jenkins**
 
